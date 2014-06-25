@@ -16,7 +16,7 @@ The EXE is created by compiling the Powershell script using PowerGUI.  You could
 
 
 ###Installation
-The system is easy to install using Group Policy Preferences.  Use a group policy preference to copy the file to the user's computer, then setup a scheduled task as follows:
+The system is easy to install using Group Policy Preferences.  Use a group policy preference to copy the file to the user's computer, then setup a scheduled task (group policy preference) as follows:
 
 ![Scheduled Task Properties](readme-images/prop1.png)
 
